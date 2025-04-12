@@ -1,9 +1,9 @@
 {
   "version": "1.0",
   "themeOverrides": {
-    "primaryColor": "customDarkNavy",
+    "primaryColor": "customWhite",
     "colors": {
-      "customDarkNavy": [
+      "customWhite": [
         "#f1f3f9",
         "#e1e4eb",
         "#bfc6d8",
@@ -15,55 +15,55 @@
         "#435686",
         "#364a77"
       ],
-      "customLightBlue": [
-        "#e9f5ff",
-        "#d8e5f9",
-        "#b2c8ea",
-        "#89aadb",
-        "#6690ce",
-        "#507fc7",
-        "#4377c4",
-        "#3366ae",
-        "#295a9e",
-        "#184e8c"
+      "customBlack": [
+        "#000000",
+        "#1c1c1c",
+        "#2d2d2d",
+        "#3e3e3e",
+        "#4f4f4f",
+        "#606060",
+        "#717171",
+        "#828282",
+        "#939393",
+        "#a4a4a4"
       ],
-      "customLightBeige": [
-        "#fbf7ee",
-        "#f4ebdd",
-        "#ead6b5",
-        "#e1c08a",
-        "#d8ad64",
-        "#d3a14d",
-        "#d19b40",
-        "#b98632",
-        "#a5762b",
-        "#8f661f"
+      "customLightWhite": [
+        "#ffffff",
+        "#f0f0f0",
+        "#e0e0e0",
+        "#d0d0d0",
+        "#c0c0c0",
+        "#b0b0b0",
+        "#a0a0a0",
+        "#909090",
+        "#808080",
+        "#707070"
       ],
       "gray": [
-        "#e9f5ff",
-        "#d8e5f9",
-        "#b2c8ea",
-        "#89aadb",
-        "#6690ce",
-        "#507fc7",
-        "#4377c4",
-        "#3366ae",
-        "#295a9e",
-        "#184e8c"
+        "#ffffff",
+        "#f0f0f0",
+        "#e0e0e0",
+        "#d0d0d0",
+        "#c0c0c0",
+        "#b0b0b0",
+        "#a0a0a0",
+        "#909090",
+        "#808080",
+        "#707070"
       ]
     },
     "defaultRadius": "0",
-    "fontFamily": "'Work Sans', sans-serif",
+    "fontFamily": "'Courier New', monospace",
     "headings": {
-      "fontFamily": "'Work Sans', sans-serif",
+      "fontFamily": "'Courier New', monospace",
       "fontWeight": 300
     },
     "white": "#FFFFFF",
-    "black": "#131A2A",
+    "black": "#000000",
     "other": {
-      "customDarkNavy": "#131A2A",
-      "customLightBeige": "#FCF8F1",
-      "customLightBlue": "#6F96D1",
+      "customDarkNavy": "#000000",
+      "customLightBeige": "#000000",
+      "customLightBlue": "#ffffff",
       "customTone01": "#EFF4FA",
       "customTone02": "#D0DDF0",
       "customTone03": "#B1C7E7",
@@ -111,10 +111,10 @@
       "ViewportBranding": {
         "defaultProps": {
           "light": {
-            "logo": "https://assets.shapediver.com/icon/transparent/sd_icon_512x512.webp"
+            "logo": ""
           },
           "dark": {
-            "logo": "https://assets.shapediver.com/icon/transparent/sd_icon_512x512.webp"
+            "logo": ""
           }
         }
       }
