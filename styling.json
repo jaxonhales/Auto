@@ -1,11 +1,60 @@
 {
   "version": "1.0",
   "themeOverrides": {
-    "primaryColor": "#FFFFFF",
-    "secondaryColor": "#000000",
-    "backgroundColor": "#000000",
-    "surfaceColor": "#000000",
-    "borderColor": "#FFFFFF",
+    "primaryColor": "customWhite",
+    "secondaryColor": "customWite",
+    "backgroundColor": "customWhite",
+    "surfaceColor": "customWhite",
+    "colors": {
+      "customBlack": [
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000"
+      ],
+      "customWhite": [
+        "#FFFFFF",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#FFFFFF"
+      ],
+      "customLightBeige": [
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000"
+      ],
+      "gray": [
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000"
+      ]
+    },
     "defaultRadius": "10",
     "fontFamily": "'Work Sans', sans-serif",
     "headings": {
@@ -14,6 +63,23 @@
       "color": "#FFFFFF"
     },
     "white": "#FFFFFF",
-    "black": "#000000"
+    "black": "#000000",
+    "components": {
+      "Button": {
+        "defaultProps": {
+          "styles": {
+            "root": {
+              "backgroundColor": "#0055FF",
+              "color": "#FFFFFF",
+              "borderRadius": "8px",
+              "border": "2px solid #0033AA",
+              "fontWeight": 500,
+              "padding": "10px 20px",
+              "fontSize": "14px"
+            }
+          }
+        }
+      }
     }
   }
+}
