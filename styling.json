@@ -58,7 +58,7 @@
       "fontWeight": 300,
       "color": "#FFFFFF"
     },
-    "white": "#blue",
+    "white": "blue",
     "black": "#FFFFFF",
     "components": {
       "Button": {
