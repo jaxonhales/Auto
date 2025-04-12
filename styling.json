@@ -55,7 +55,7 @@
         "#000000"
       ]
     },
-    "defaultRadius": "50",
+    "defaultRadius": "10",
     "fontFamily": "'Work Sans', sans-serif",
     "headings": {
       "fontFamily": "'Work Sans', sans-serif",
