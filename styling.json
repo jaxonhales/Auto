@@ -102,6 +102,16 @@
           }
         }
       },
+      "ParameterLabelComponent": {
+        "defaultProps": {
+          "styles": {
+            "root":{
+              "color": "#000000",
+              "border": "1px solid #FFFFFF"
+            }
+          }
+        }
+      },
       "Accordion": {
         "defaultProps": {
           "styles": {
