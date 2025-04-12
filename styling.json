@@ -62,8 +62,8 @@
       "fontWeight": 300,
       "color": "#FFFFFF"
     },
-    "white": "#FFFFFF",
-    "black": "#000000",
+    "white": "#000000",
+    "black": "#FFFFFF",
     "other": {
       "customDarkNavy": "#000000",
       "customLightBeige": "#000000",
