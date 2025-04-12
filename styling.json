@@ -79,6 +79,29 @@
             }
           }
         }
+      },
+      "Slider": {
+        "defaultProps": {
+          "styles": {
+            "track": {
+              "backgroundColor": "#333333",
+              "height": "4px"
+            },
+            "bar": {
+              "backgroundColor": "#0055FF"
+            },
+            "thumb": {
+              "border": "2px solid #0055FF",
+              "backgroundColor": "#FFFFFF",
+              "height": "18px",
+              "width": "18px"
+            },
+            "label": {
+              "backgroundColor": "#0055FF",
+              "color": "#FFFFFF"
+            }
+          }
+        }
       }
     }
   }
