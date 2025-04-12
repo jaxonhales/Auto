@@ -105,7 +105,6 @@
           "strongFontWeight": "200",
           "styles": {
             "root": {
-              "backgroundColor": "#000000",
               "color": "#FFFFFF"
             }
           }
@@ -144,4 +143,3 @@
       }
     }
   }
-}
