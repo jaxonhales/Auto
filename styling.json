@@ -2,9 +2,9 @@
   "version": "1.0",
   "themeOverrides": {
     "primaryColor": "customWhite",
-    "secondaryColor": "customBlack",
-    "backgroundColor": "customBlack",
-    "surfaceColor": "customBlack",
+    "secondaryColor": "customWite",
+    "backgroundColor": "customWhite",
+    "surfaceColor": "customWhite",
     "colors": {
       "customBlack": [
         "#000000",
