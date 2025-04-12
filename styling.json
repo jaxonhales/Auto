@@ -1,11 +1,11 @@
 {
   "version": "1.0",
   "themeOverrides": {
-    "primaryColor": "customWhite",
-    "secondaryColor": "customWite",
-    "backgroundColor": "customWhite",
-    "surfaceColor": "customWhite",
-    "borderColor": "customWhite",
+    "primaryColor": "#FFFFFF",
+    "secondaryColor": "#000000",
+    "backgroundColor": "#000000",
+    "surfaceColor": "#000000",
+    "borderColor": "#FFFFFF",
     "defaultRadius": "10",
     "fontFamily": "'Work Sans', sans-serif",
     "headings": {
