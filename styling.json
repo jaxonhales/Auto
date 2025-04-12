@@ -1,8 +1,8 @@
 {
   "version": "1.0",
   "themeOverrides": {
-    "primaryColor": "#customWhite",
-    "secondaryColor": "customWite",
+    "primaryColor": "customWhite",
+    "secondaryColor": "customWhite",
     "backgroundColor": "customWhite",
     "surfaceColor": "customWhite",
     "colors": {
@@ -84,8 +84,7 @@
         "defaultProps": {
           "styles": {
             "track": {
-              "color": "#FFFFFF",
-              "backgroundColor": "#FFFFFF"
+              "fill": "#FFFFFF"
             },
             "bar": {
               "color": "#FFFFFF"
