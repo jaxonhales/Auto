@@ -4,7 +4,7 @@
     "primaryColor": "customBlack",
     "secondaryColor": "customBlack",
     "surfaceColor": "customBlack",
-    "backgroundColor": "customBlack",
+    "backgroundColor": "#000000",
     "colors": {
       "customWhite": "#000000",
       "customBlack": "#000000",
@@ -36,11 +36,11 @@
           "styles": {
             "root": {
               "backgroundColor": "#000000",
-              "border": "0"
+              "border": "none"
             },
             "label": {
               "fontWeight": "300",
-              "border": "0"
+              "color": "#FFFFFF"
             }
           }
         }
@@ -48,11 +48,11 @@
       "Button": {
         "defaultProps": {
           "fw": "300",
-          "border": "0",
           "styles": {
             "root": {
               "backgroundColor": "#000000",
-              "border": "0"
+              "color": "#FFFFFF",
+              "border": "none"
             }
           }
         }
@@ -60,11 +60,10 @@
       "ExportLabelComponent": {
         "defaultProps": {
           "fontWeight": "100",
-          "border": "0",
           "styles": {
             "root": {
               "backgroundColor": "#000000",
-              "border": "0"
+              "border": "none"
             }
           }
         }
@@ -73,11 +72,10 @@
         "defaultProps": {
           "boldFontWeight": "200",
           "strongFontWeight": "200",
-          "border": "0",
           "styles": {
             "root": {
               "backgroundColor": "#000000",
-              "border": "0"
+              "border": "none"
             }
           }
         }
@@ -85,11 +83,10 @@
       "ParameterLabelComponent": {
         "defaultProps": {
           "fontWeight": "100",
-          "border": "0",
           "styles": {
             "root": {
               "backgroundColor": "#000000",
-              "border": "0"
+              "border": "none"
             }
           }
         }
@@ -98,11 +95,11 @@
         "defaultProps": {
           "fw": "100",
           "size": "sm",
-          "border": "0",
           "styles": {
             "root": {
               "backgroundColor": "#000000",
-              "border": "0"
+              "color": "#FFFFFF",
+              "border": "none"
             }
           }
         }
