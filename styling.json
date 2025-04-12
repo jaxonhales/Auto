@@ -80,11 +80,11 @@
         "defaultProps": {
           "styles": {
             "track": {
-              "fill": "#FFFFFF",
+              "--slider-track-color": "#FFFFFF",
               "height":"18px"
             },
             "bar": {
-              "color": "#FFFFFF"
+              "--slider-bar-color": "#FFFFFF"
             },
             "thumb": {
               "border": "2px solid #FFFFFF",
