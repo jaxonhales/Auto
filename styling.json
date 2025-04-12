@@ -116,7 +116,6 @@
           "fontWeight": "100",
           "styles": {
             "root": {
-              "backgroundColor": "#000000",
               "color": "#FFFFFF"
             }
           }
@@ -128,7 +127,6 @@
           "size": "sm",
           "styles": {
             "root": {
-              "backgroundColor": "#000000",
               "color": "#FFFFFF"
             }
           }
