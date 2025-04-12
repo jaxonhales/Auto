@@ -5,56 +5,7 @@
     "secondaryColor": "customWite",
     "backgroundColor": "customWhite",
     "surfaceColor": "customWhite",
-    "colors": {
-      "customBlack": [
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000"
-      ],
-      "customWhite": [
-        "#FFFFFF",
-        "#FFFFFF",
-        "#FFFFFF",
-        "#FFFFFF",
-        "#FFFFFF",
-        "#FFFFFF",
-        "#FFFFFF",
-        "#FFFFFF",
-        "#FFFFFF",
-        "#FFFFFF"
-      ],
-      "customLightBeige": [
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000"
-      ],
-      "gray": [
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000"
-      ]
-    },
+    "borderColor": "customWhite",
     "defaultRadius": "10",
     "fontFamily": "'Work Sans', sans-serif",
     "headings": {
