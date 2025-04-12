@@ -102,6 +102,16 @@
           }
         }
       },
+      "Accordion": {
+        "defaultProps": {
+          "styles": {
+            "root": {
+              "color": "#000000",
+              "border":"1px solid #FFFFFF"
+            }
+          }
+        }
+      },
       "AppBuilderContainerWrapper": {
         "defaultProps": {
           "styles": {
