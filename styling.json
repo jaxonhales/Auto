@@ -63,16 +63,7 @@
       "color": "#FFFFFF"
     },
     "white": "#000000",
-    "black": "#FFFFFF",
-    "other": {
-      "customDarkNavy": "#000000",
-      "customLightBeige": "#000000",
-      "customLightBlue": "#000000",
-      "customTone01": "#000000",
-      "customTone02": "#000000",
-      "customTone03": "#000000",
-      "customTone04": "#000000",
-      "defaultFontWeight": "100"
+    "black": "#FFFFFF"
     },
     "components": {
       "Accordion": {
