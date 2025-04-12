@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "themeOverrides": {
-    "primaryColor": "white",
+    "primaryColor": "pink",
     "defaultRadius": "0"
   }
 }
