@@ -140,6 +140,23 @@
             "logo": ""
           }
         }
+      },
+      "Slider": {
+        "defaultProps": {
+          "styles": {
+            "track": {
+              "backgroundColor": "#FFFFFF"
+            },
+            "bar": {
+              "backgroundColor": "#FFFFFF"
+            },
+            "thumb": {
+              "backgroundColor": "#FFFFFF",
+              "border": "none"
       }
+    }
+  }
+}
+
     }
   }
