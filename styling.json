@@ -2,9 +2,6 @@
   "version": "1.0",
   "themeOverrides": {
     "primaryColor": "white",
-    "secondaryColor": "black",
-    "backgroundColor": "black",
-    "surfaceColor": "black",
     "defaultRadius": "0"
   }
 }
