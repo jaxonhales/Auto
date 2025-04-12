@@ -4,52 +4,16 @@
     "primaryColor": "customBlack",
     "colors": {
       "customWhite": [
-        "#f1f3f9",
-        "#e1e4eb",
-        "#bfc6d8",
-        "#9aa6c6",
-        "#7a8bb6",
-        "#677aad",
-        "#5c72aa",
-        "#4d6195",
-        "#435686",
-        "#364a77"
+        "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000"
       ],
       "customBlack": [
-        "#000000",
-        "#1c1c1c",
-        "#2d2d2d",
-        "#3e3e3e",
-        "#4f4f4f",
-        "#606060",
-        "#717171",
-        "#828282",
-        "#939393",
-        "#a4a4a4"
+        "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000"
       ],
       "customLightWhite": [
-        "#ffffff",
-        "#f0f0f0",
-        "#e0e0e0",
-        "#d0d0d0",
-        "#c0c0c0",
-        "#b0b0b0",
-        "#a0a0a0",
-        "#909090",
-        "#808080",
-        "#707070"
+        "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000"
       ],
       "gray": [
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000",
-        "#000000"
+        "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000"
       ]
     },
     "defaultRadius": "0",
@@ -58,16 +22,16 @@
       "fontFamily": "Source Code Pro",
       "fontWeight": 300
     },
-    "white": "#FFFFFF",
+    "white": "#000000",
     "black": "#000000",
     "other": {
       "customDarkNavy": "#000000",
       "customLightBeige": "#000000",
-      "customLightBlue": "#ffffff",
-      "customTone01": "#ffffff",
-      "customTone02": "#D0DDF0",
-      "customTone03": "#B1C7E7",
-      "customTone04": "#92B0DD",
+      "customLightBlue": "#000000",
+      "customTone01": "#000000",
+      "customTone02": "#000000",
+      "customTone03": "#000000",
+      "customTone04": "#000000",
       "defaultFontWeight": "100",
       "forceColorScheme": "dark"
     },
@@ -76,36 +40,42 @@
         "defaultProps": {
           "styles": {
             "label": {
-              "fontWeight": "300"
+              "fontWeight": "300",
+              "border": "0"
             }
           }
         }
       },
       "Button": {
         "defaultProps": {
-          "fw": "300"
+          "fw": "300",
+          "border": "0"
         }
       },
       "ExportLabelComponent": {
         "defaultProps": {
-          "fontWeight": "100"
+          "fontWeight": "100",
+          "border": "0"
         }
       },
       "MarkdownWidgetComponent": {
         "defaultProps": {
           "boldFontWeight": "200",
-          "strongFontWeight": "200"
+          "strongFontWeight": "200",
+          "border": "0"
         }
       },
       "ParameterLabelComponent": {
         "defaultProps": {
-          "fontWeight": "100"
+          "fontWeight": "100",
+          "border": "0"
         }
       },
       "Text": {
         "defaultProps": {
           "fw": "100",
-          "size": "sm"
+          "size": "sm",
+          "border": "0"
         }
       },
       "ViewportBranding": {
