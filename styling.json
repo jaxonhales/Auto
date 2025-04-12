@@ -62,7 +62,7 @@
       "fontWeight": 300,
       "color": "#FFFFFF"
     },
-    "white": "#000000",
-    "black": "#FFFFFF"
+    "white": "#FFFFFF",
+    "black": "#000000"
     }
   }
