@@ -4,6 +4,7 @@
     "primaryColor": "customBlack",
     "secondaryColor": "customBlack",
     "backgroundColor": "customBlack",
+    "surfaceColor": "customBlack",
     "colors": {
       "customBlack": [
         "#000000",
