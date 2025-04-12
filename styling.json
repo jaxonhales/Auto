@@ -6,18 +6,10 @@
     "surfaceColor": "customBlack",
     "backgroundColor": "customBlack",
     "colors": {
-      "customWhite": [
-        "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000"
-      ],
-      "customBlack": [
-        "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000"
-      ],
-      "customLightWhite": [
-        "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000"
-      ],
-      "gray": [
-        "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000", "#000000"
-      ]
+      "customWhite": "#000000",
+      "customBlack": "#000000",
+      "customLightWhite": "#000000",
+      "gray": "#000000"
     },
     "defaultRadius": "0",
     "fontFamily": "Source Code Pro",
@@ -42,6 +34,10 @@
       "Accordion": {
         "defaultProps": {
           "styles": {
+            "root": {
+              "backgroundColor": "#000000",
+              "border": "0"
+            },
             "label": {
               "fontWeight": "300",
               "border": "0"
@@ -52,33 +48,63 @@
       "Button": {
         "defaultProps": {
           "fw": "300",
-          "border": "0"
+          "border": "0",
+          "styles": {
+            "root": {
+              "backgroundColor": "#000000",
+              "border": "0"
+            }
+          }
         }
       },
       "ExportLabelComponent": {
         "defaultProps": {
           "fontWeight": "100",
-          "border": "0"
+          "border": "0",
+          "styles": {
+            "root": {
+              "backgroundColor": "#000000",
+              "border": "0"
+            }
+          }
         }
       },
       "MarkdownWidgetComponent": {
         "defaultProps": {
           "boldFontWeight": "200",
           "strongFontWeight": "200",
-          "border": "0"
+          "border": "0",
+          "styles": {
+            "root": {
+              "backgroundColor": "#000000",
+              "border": "0"
+            }
+          }
         }
       },
       "ParameterLabelComponent": {
         "defaultProps": {
           "fontWeight": "100",
-          "border": "0"
+          "border": "0",
+          "styles": {
+            "root": {
+              "backgroundColor": "#000000",
+              "border": "0"
+            }
+          }
         }
       },
       "Text": {
         "defaultProps": {
           "fw": "100",
           "size": "sm",
-          "border": "0"
+          "border": "0",
+          "styles": {
+            "root": {
+              "backgroundColor": "#000000",
+              "border": "0"
+            }
+          }
         }
       },
       "ViewportBranding": {
