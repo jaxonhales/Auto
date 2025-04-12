@@ -55,7 +55,7 @@
         "#000000"
       ]
     },
-    "defaultRadius": "10",
+    "defaultRadius": "50",
     "fontFamily": "'Work Sans', sans-serif",
     "headings": {
       "fontFamily": "'Work Sans', sans-serif",
@@ -84,7 +84,8 @@
         "defaultProps": {
           "styles": {
             "track": {
-              "color": "#FFFFFF"
+              "color": "#FFFFFF",
+              "backgroundColor": "#FFFFFF"
             },
             "bar": {
               "color": "#FFFFFF"
@@ -114,12 +115,6 @@
           "color":"#000000",
           "backgroundColor": "#000000",
           "Border": "1px solid #FFFFFF"
-        }
-      },
-      "MarkdownWidgetComponent": {
-        "defaultProps": {
-          "boldFontWeight": "200",
-          "strongFontWeight": "200"
         }
       },
       "Accordion": {
