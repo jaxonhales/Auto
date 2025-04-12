@@ -1,7 +1,60 @@
 {
   "version": "1.0",
   "themeOverrides": {
-    "primaryColor": "#000000",
+    "primaryColor": "customWhite",
+    "secondaryColor": "customWite",
+    "backgroundColor": "customWhite",
+    "surfaceColor": "customWhite",
+    "colors": {
+      "customBlack": [
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000"
+      ],
+      "customWhite": [
+        "#FFFFFF",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#FFFFFF",
+        "#FFFFFF"
+      ],
+      "customLightBeige": [
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000"
+      ],
+      "gray": [
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000"
+      ]
+    },
     "defaultRadius": "10",
     "fontFamily": "'Work Sans', sans-serif",
     "headings": {
