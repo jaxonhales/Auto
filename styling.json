@@ -62,7 +62,7 @@
     "white": "blue",
     "black": "#FFFFFF",
     "other":{
-      "forceColorScheme": "light"
+      "forceColorScheme": "dark"
     },
     "components": {
       "Button": {
