@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+    <script>
+    const cors = require('cors');
+        app.use(cors()); // This allows all domains
+        </script>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ShapeDiver Embed</title>
+    <style>
+        body {
+            background-color: rgb(0, 0, 0);
+            display: flex;
+            justify-content: center;
+            align-items: bottom;
+            height: 100vh;
+            margin: 0;
+        }
+        iframe {
+            width: 75vw;
+            height: 100vh;
+            border: none;
+            color:rgb(0, 0, 0);
+            font-family:'Helvetica', Georgia, 'Times New Roman', Times, serif
+        }
+    </style>
+
+    <iframe id="sdv-iframe" src="https://appbuilder.shapediver.com/v1/main/latest/?slug=beams-an-autoprogettazione-generator-shape-diver-t-10&g=https://jaxonhales.github.io/Auto/styling.json" referrerpolicy="origin" allowfullscreen style="overflow-x: hidden; overflow-y: hidden; border-width: 0;">
+        <p>Your browser does not support iframes.</p>
+        <style></style>
+    </iframe>
+    
+</body>
+
+</html>
