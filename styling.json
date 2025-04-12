@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "themeOverrides": {
-    "primaryColor": "#FFFFFF",
+    "primaryColor": "#customWhite",
     "secondaryColor": "customWite",
     "backgroundColor": "customWhite",
     "surfaceColor": "customWhite",
