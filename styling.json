@@ -87,7 +87,7 @@
           "fw": "300",
           "styles": {
             "root": {
-              "backgroundColor": "#000000",
+              "backgroundColor": "#FFFFFF",
               "color": "#FFFFFF",
               "border": "none"
             }
@@ -99,7 +99,7 @@
           "fontWeight": "100",
           "styles": {
             "root": {
-              "color": "#FFFFFF"
+              "color": "#000000"
             }
           }
         }
@@ -110,7 +110,7 @@
           "strongFontWeight": "200",
           "styles": {
             "root": {
-              "color": "#FFFFFF"
+              "color": "#000000"
             }
           }
         }
@@ -120,7 +120,7 @@
           "fontWeight": "100",
           "styles": {
             "root": {
-              "color": "#FFFFFF"
+              "color": "#000000"
             }
           }
         }
@@ -131,7 +131,7 @@
           "size": "sm",
           "styles": {
             "root": {
-              "color": "#FFFFFF"
+              "color": "#000000"
             }
           }
         }
