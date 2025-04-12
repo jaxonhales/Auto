@@ -76,7 +76,7 @@
         "defaultProps": {
           "styles": {
             "root": {
-              "backgroundColor": "000000",
+              "backgroundColor": "#000000",
               "color": "#FFFFFF"
             }
           }
