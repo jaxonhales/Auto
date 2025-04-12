@@ -52,7 +52,7 @@
         "#000000"
       ]
     },
-    "defaultRadius": "30",
+    "defaultRadius": "10",
     "fontFamily": "'Work Sans', sans-serif",
     "headings": {
       "fontFamily": "'Work Sans', sans-serif",
@@ -99,7 +99,8 @@
           "fontWeight": "100",
           "styles": {
             "root": {
-              "color": "#000000"
+              "backgroundColor": "#000000",
+              "color": "#FFFFFF"
             }
           }
         }
@@ -110,7 +111,8 @@
           "strongFontWeight": "200",
           "styles": {
             "root": {
-              "color": "#000000"
+              "backgroundColor": "#000000",
+              "color": "#FFFFFF"
             }
           }
         }
@@ -120,7 +122,8 @@
           "fontWeight": "100",
           "styles": {
             "root": {
-              "color": "#000000"
+              "backgroundColor": "#000000",
+              "color": "#FFFFFF"
             }
           }
         }
@@ -131,7 +134,8 @@
           "size": "sm",
           "styles": {
             "root": {
-              "color": "#000000"
+              "backgroundColor": "#000000",
+              "color": "#FFFFFF"
             }
           }
         }
