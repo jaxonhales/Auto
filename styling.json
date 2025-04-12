@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "themeOverrides": {
-    "primaryColor": "#FFFFFF",
+    "primaryColor": "#customWhite",
     "secondaryColor": "customWite",
     "backgroundColor": "customWhite",
     "surfaceColor": "customWhite",
@@ -99,41 +99,6 @@
             "label": {
               "backgroundColor": "#FFFFFF",
               "color": "#FFFFFF"
-            }
-          }
-        }
-      },
-      "ParameterLabelComponent": {
-        "defaultProps": {
-          "color":"#000000",
-          "backgroundColor": "#000000",
-          "border": "1px solid #FFFFFF"
-        }
-      },
-      "Select": {
-        "defaultProps": {
-          "color":"#000000",
-          "backgroundColor": "#000000",
-          "border": "1px solid #FFFFFF"
-        }
-      },
-      "Accordion": {
-        "defaultProps": {
-          "styles": {
-            "root": {
-              "backgroundColor": "#000000",
-              "color": "#000000",
-              "border":"1px solid #FFFFFF"
-            }
-          }
-        }
-      },
-      "AppBuilderContainerWrapper": {
-        "defaultProps": {
-          "styles": {
-            "root": {
-              "backgroundColor": "#000000",
-              "border": "1px solid #FFFFFF"
             }
           }
         }
