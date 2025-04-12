@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "themeOverrides": {
-    "primaryColor": "customWhite",
+    "primaryColor": "customBlack",
     "secondaryColor": "customWhite",
     "backgroundColor": "customWhite",
     "surfaceColor": "customWhite",
@@ -96,8 +96,7 @@
               "width": "18px"
             },
             "label": {
-              "backgroundColor": "#FFFFFF",
-              "color": "#FFFFFF"
+              "backgroundColor": "#FFFFFF"
             }
           }
         }
