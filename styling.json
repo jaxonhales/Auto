@@ -102,6 +102,32 @@
             }
           }
         }
+      },
+      "Menu": {
+        "defaultProps": {
+          "styles": {
+            "dropdown": {
+              "backgroundColor": "#1E1E1E",
+              "borderRadius": "8px",
+              "border": "1px solid #333333",
+              "padding": "8px"
+            },
+            "item": {
+              "color": "#FFFFFF",
+              "fontSize": "14px",
+              "padding": "6px 12px",
+              "&:hover": {
+                "backgroundColor": "#0055FF",
+                "color": "#FFFFFF"
+              }
+            },
+            "label": {
+              "color": "#AAAAAA",
+              "fontSize": "12px",
+              "fontWeight": "500"
+            }
+          }
+        }
       }
     }
   }
