@@ -116,6 +116,12 @@
           "Border": "1px solid #FFFFFF"
         }
       },
+      "MarkdownWidgetComponent": {
+        "defaultProps": {
+          "boldFontWeight": "200",
+          "strongFontWeight": "200"
+        }
+      },
       "Accordion": {
         "defaultProps": {
           "styles": {
