@@ -3,6 +3,7 @@
   "themeOverrides": {
     "primaryColor": "customBlack",
     "secondaryColor": "customBlack",
+    "backgroundColor": "customBlack",
     "colors": {
       "customBlack": [
         "#000000",
