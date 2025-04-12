@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "themeOverrides": {
-    "primaryColor": "customWhite",
+    "primaryColor": "customBlack",
     "colors": {
       "customWhite": [
         "#f1f3f9",
@@ -40,22 +40,22 @@
         "#707070"
       ],
       "gray": [
-        "#ffffff",
-        "#f0f0f0",
-        "#e0e0e0",
-        "#d0d0d0",
-        "#c0c0c0",
-        "#b0b0b0",
-        "#a0a0a0",
-        "#909090",
-        "#808080",
-        "#707070"
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000",
+        "#000000"
       ]
     },
     "defaultRadius": "0",
-    "fontFamily": "'Courier New', monospace",
+    "fontFamily": "Source Code Pro",
     "headings": {
-      "fontFamily": "'Courier New', monospace",
+      "fontFamily": "Source Code Pro",
       "fontWeight": 300
     },
     "white": "#FFFFFF",
@@ -64,12 +64,12 @@
       "customDarkNavy": "#000000",
       "customLightBeige": "#000000",
       "customLightBlue": "#ffffff",
-      "customTone01": "#EFF4FA",
+      "customTone01": "#ffffff",
       "customTone02": "#D0DDF0",
       "customTone03": "#B1C7E7",
       "customTone04": "#92B0DD",
       "defaultFontWeight": "100",
-      "forceColorScheme": "light"
+      "forceColorScheme": "dark"
     },
     "components": {
       "Accordion": {
