@@ -79,7 +79,7 @@
       "Text": {
         "defaultProps": {
           "fw": "100",
-          "size": "20px"
+          "size": "40px"
         }
       },
       "Slider": {
