@@ -85,7 +85,7 @@
       },
       "ViewportIcons": {
          "defaultProps": {
-          "visibleIcons": []
+          "icons": []
         }
       },
       "Slider": {
