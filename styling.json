@@ -52,14 +52,14 @@
         "#000000"
       ]
     },
-    "defaultRadius": "10",
+    "defaultRadius": "40",
     "fontFamily": "'Work Sans', sans-serif",
     "headings": {
       "fontFamily": "'Work Sans', sans-serif",
       "fontWeight": 300,
       "color": "#FFFFFF"
     },
-    "white": "white",
+    "white": "#000000",
     "black": "#FFFFFF",
     "other":{
       "forceColorScheme": "light"
@@ -79,6 +79,7 @@
       },
       "Slider": {
         "defaultProps": {
+          "labelPosition": "bottom",
           "styles": {
             "track": {
               "--slider-track-color": "#FFFFFF",
@@ -94,7 +95,8 @@
               "width": "18px"
             },
             "label": {
-              "backgroundColor": "#FFFFFF"
+              "backgroundColor": "#000000",
+              "color": "#FFFFFF"
             }
           }
         }
