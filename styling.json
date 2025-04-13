@@ -52,11 +52,12 @@
         "#000000"
       ]
     },
-    "defaultRadius": "2",
+    "defaultRadius": "3",
     "fontFamily": "'Consolas', sans-serif",
     "headings": {
       "fontFamily": "'Consolas', sans-serif",
       "fontWeight": 500,
+      "size":"40px",
       "color": "#FFFFFF"
     },
     "white": "#000000",
@@ -80,6 +81,11 @@
         "defaultProps": {
           "fw": "100",
           "size": "40px"
+        }
+      },
+      "ViewportIcons": {
+         "defaultProps": {
+          "visibleIcons": []
         }
       },
       "Slider": {
