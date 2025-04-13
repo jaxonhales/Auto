@@ -52,11 +52,11 @@
         "#000000"
       ]
     },
-    "defaultRadius": "0",
+    "defaultRadius": "2",
     "fontFamily": "'Consolas', sans-serif",
     "headings": {
       "fontFamily": "'Consolas', sans-serif",
-      "fontWeight": 300,
+      "fontWeight": 500,
       "color": "#FFFFFF"
     },
     "white": "#000000",
@@ -71,10 +71,15 @@
             "root": {
               "backgroundColor": "#FFFFFF",
               "color": "#FFFFFF",
-              "borderRadius": "30px",
               "fontWeight": 500
             }
           }
+        }
+      },
+      "Text": {
+        "defaultProps": {
+          "fw": "100",
+          "size": "20px"
         }
       },
       "Slider": {
