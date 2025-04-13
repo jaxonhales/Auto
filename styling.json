@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "themeOverrides": {
-    "primaryColor": "customBlack",
+    "primaryColor": "customWhite",
     "colors": {
       "customBlack": [
         "#000000",
@@ -52,15 +52,15 @@
         "#000000"
       ]
     },
-    "defaultRadius": "40",
+    "defaultRadius": "0",
     "fontFamily": "'Work Sans', sans-serif",
     "headings": {
       "fontFamily": "'Work Sans', sans-serif",
       "fontWeight": 300,
-      "color": "#000000"
+      "color": "#FFFFFF"
     },
-    "white": "#FFFFFF",
-    "black": "#000000",
+    "white": "#000000",
+    "black": "#FFFFFF",
     "other":{
       "forceColorScheme": "light"
     },
