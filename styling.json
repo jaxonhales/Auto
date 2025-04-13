@@ -71,7 +71,7 @@
           "styles": {
             "root": {
               "backgroundColor": "#FFFFFF",
-              "color": "#FFFFFF",
+              "color": "#000000",
               "fontWeight": 500
             }
           }
