@@ -85,7 +85,10 @@
       },
       "ViewportIcons": {
          "defaultProps": {
-          "icons": []
+          "enableZoomBtn": false,
+          "enableCamerasBtn": false,
+          "enableFullscreenBtn": false,
+          "enableArBtn": false
         }
       },
       "Slider": {
