@@ -53,9 +53,9 @@
       ]
     },
     "defaultRadius": "0",
-    "fontFamily": "'Work Sans', sans-serif",
+    "fontFamily": "'Consolas', sans-serif",
     "headings": {
-      "fontFamily": "'Work Sans', sans-serif",
+      "fontFamily": "'Consolas', sans-serif",
       "fontWeight": 300,
       "color": "#FFFFFF"
     },
@@ -69,8 +69,8 @@
         "defaultProps": {
           "styles": {
             "root": {
-              "backgroundColor": "#000000",
-              "color": "#000000",
+              "backgroundColor": "#FFFFFF",
+              "color": "#FFFFFF",
               "borderRadius": "30px",
               "fontWeight": 500
             }
